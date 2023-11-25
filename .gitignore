@@ -1,0 +1,9 @@
+db.sqlite3
+manage.py
+core/migrations/
+./core/migrations/
+./core/__pycache__/
+core/__pycache__/
+Portfolio/__pycache__/
+Portfolio/asgi.py
+Portfolio/wsgi.py
